@@ -1,0 +1,16 @@
+# Python
+venv/
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/telemetry.db
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
