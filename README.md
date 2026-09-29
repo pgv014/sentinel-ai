@@ -28,7 +28,7 @@ The system collects telemetry data, calculates a risk score based on equipment b
 ### Backend
 - FastAPI
 - SQLAlchemy
-- SQLite
+- SQLite.
 
 ### Database
 - SQLite
